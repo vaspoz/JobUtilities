@@ -1,0 +1,4 @@
+core\COMPort.class
+core\ComListener.class
+core\BGSEntity.class
+Utils\StringUtils.class

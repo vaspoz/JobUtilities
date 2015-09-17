@@ -1,0 +1,20 @@
+<properties>
+
+    <connection>
+        <server>production</server> <!-- 'production' или 'test' !-->
+        <user>v.pozdeev</user>
+        <password>Uiop7890</password>
+    </connection>
+
+    <load>
+        <branch>forQA</branch>
+        <buildName>M2M</buildName>
+        <description>build</description>
+    </load>
+
+    <!-- привязка <linkName> к ветви <branch>!-->
+    <bind>
+        <linkName>forQA</linkName>  <!-- Имя ветви ядра -->
+    </bind>
+
+</properties>

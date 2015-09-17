@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BGSInstaller/BGSInstaller.iml" filepath="$PROJECT_DIR$/BGSInstaller/BGSInstaller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BgsCore/BgsCore.iml" filepath="$PROJECT_DIR$/BgsCore/BgsCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BgsShell/BgsShell.iml" filepath="$PROJECT_DIR$/BgsShell/BgsShell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetLog/GetLog.iml" filepath="$PROJECT_DIR$/GetLog/GetLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UServerLoader/UServerLoader.iml" filepath="$PROJECT_DIR$/UServerLoader/UServerLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utilities.iml" filepath="$PROJECT_DIR$/Utilities.iml" />
+    </modules>
+  </component>
+</project>

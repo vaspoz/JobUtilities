@@ -1,0 +1,4 @@
+<properties>
+    <comport>COM61</comport>
+    <buildDirectory>BaseBGS</buildDirectory>
+</properties>
