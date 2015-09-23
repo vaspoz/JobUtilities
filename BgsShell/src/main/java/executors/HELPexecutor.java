@@ -24,8 +24,8 @@ public class HELPexecutor extends CommonCommandExecutor {
 
         help.append("\t").append("get <command>").append("\n")
                 .append("\t\t").append(format("imei")).append("Will return IMEI.").append("\n")
-                .append("\t\t").append(format("run")).append("Will return list of running midlets.").append("\n")
-                .append("\t\t").append(format("install")).append("Will return list of installed midlets.").append("\n\n");
+                .append("\t\t").append(format("running")).append("Will return list of running midlets.").append("\n")
+                .append("\t\t").append(format("installed")).append("Will return list of installed midlets.").append("\n\n");
 
         System.out.println(help);
 
